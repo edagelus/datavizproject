@@ -1,0 +1,14 @@
+name: DataVizProject
+title: DataVizProject
+username:
+account: sartaj-ahmad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5482328
+bundleId: 5492756
+url: https://sartaj-ahmad.shinyapps.io/DataVizProject/
+when: 1642766974.06116
+lastSyncTime: 1642766974.06116
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ~$Documentation_wasabi_artists_database_ppt (1).pptx|Documentation_wasabi_artists.pdf|Documentation_wasabi_artists_database_ppt (1).pptx
